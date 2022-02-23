@@ -6,5 +6,5 @@ $days = (strtotime($date1)-strtotime($date2))/(86400);
 
 echo $days;
 
-
+echo "hello world";
 ?>
